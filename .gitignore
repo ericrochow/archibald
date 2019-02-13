@@ -2,6 +2,7 @@
 tags
 
 # Configuration, private data, and log files
+rtmbot.conf
 data/
 logs/
 
