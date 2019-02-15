@@ -1,0 +1,8 @@
+__author__ = "Eric Rochow"
+__author_email = "ericrochow+archibald@gmail.com"
+__copyright__ = "Copyright 2019 Eric Rochow"
+__description__ = "Your digital Slack butler."
+__license__ = "Apache 2.0"
+__title__ = "Archibald"
+__url__ = "https://github.com/ericrochow/archibald"
+__version__ = "0.0.1"

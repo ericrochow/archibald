@@ -1,0 +1,3 @@
+include setup.py setup.cfg MANIFEST.in LICENSE
+recursive-include plugins *.py
+recursive-include requirements *.txt
